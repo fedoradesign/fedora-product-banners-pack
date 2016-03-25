@@ -16,8 +16,11 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="Fedora product banners pack.svg"
-   style="enable-background:new">
+   sodipodi:docname="Fedora_product_banners_pack.svg"
+   style="enable-background:new"
+   inkscape:export-filename="Fedora_product_banners_pack.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <defs
      id="defs4">
     <linearGradient
@@ -719,8 +722,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.5"
-     inkscape:cx="1013.1008"
-     inkscape:cy="692.73104"
+     inkscape:cx="906.67948"
+     inkscape:cy="630.17122"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -752,7 +755,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -803,7 +806,10 @@
      style="display:inline">
     <g
        id="g9425"
-       transform="translate(-3739.946,-277.77078)">
+       transform="translate(-3739.946,-277.77078)"
+       inkscape:export-filename="FBPWW_160_600.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          style="display:inline;filter:url(#filter11975-5)"
          clip-path="url(#clipPath9808)"
@@ -1227,7 +1233,10 @@
            id="rect11943" /></flowRegion><flowPara
          id="flowPara11945" /></flowRoot>    <g
        id="g8801"
-       transform="translate(-2783.9452,-277.7708)">
+       transform="matrix(1,0,0,0.99893903,-2783.9452,-277.36493)"
+       inkscape:export-filename="FBPMS_300_250.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          id="g8803"
          transform="matrix(2.2540205,0,0,3.3143645,-15375.929,183.16278)"
@@ -1581,7 +1590,7 @@
            transform="matrix(0.24013272,0,0,0.24013272,-1757.2808,-479.8776)"
            style="fill:#ffffff;fill-opacity:1">
           <rect
-             rx="12.771163"
+             rx="12.784727"
              style="fill:#ffffff;fill-opacity:1;stroke:none"
              id="rect8967"
              width="42.426407"
@@ -1591,7 +1600,7 @@
              ry="12.771163"
              transform="matrix(0,1,-1,0,0,0)" />
           <rect
-             rx="12.771163"
+             rx="12.784727"
              ry="12.771163"
              y="-2560.3801"
              x="1411.9673"
@@ -1601,7 +1610,7 @@
              style="fill:#ffffff;fill-opacity:1;stroke:none"
              transform="matrix(0,1,-1,0,0,0)" />
           <rect
-             rx="12.771163"
+             rx="12.784727"
              style="fill:#ffffff;fill-opacity:1;stroke:none"
              id="rect8971"
              width="42.426407"
@@ -1667,8 +1676,11 @@
          style="display:inline;opacity:1;fill:url(#linearGradient6837-8);fill-opacity:1;stroke:none;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <g
-       transform="translate(-2423.9457,-277.77078)"
-       id="g8977">
+       transform="matrix(1,0,0,0.99893903,-2423.9457,-277.36491)"
+       id="g8977"
+       inkscape:export-filename="FBPMC_300_250.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          style="display:inline;filter:url(#filter11975)"
          clip-path="url(#clipPath11839)"
@@ -2023,7 +2035,7 @@
            style="fill:#ffffff;fill-opacity:1">
           <rect
              rx="21.818447"
-             ry="21.818447"
+             ry="21.841619"
              y="-1186.8805"
              x="-3843.5327"
              height="151.40004"
@@ -2040,10 +2052,10 @@
              height="151.40004"
              x="-3783.5327"
              y="-1186.8805"
-             ry="21.818447" />
+             ry="21.841619" />
           <rect
              rx="21.818447"
-             ry="21.818447"
+             ry="21.841619"
              y="-1186.8805"
              x="-3903.5327"
              height="151.40004"
@@ -2108,8 +2120,11 @@
          style="display:inline;opacity:1;fill:url(#linearGradient6837-8-2);fill-opacity:1;stroke:none;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <g
-       transform="translate(-3143.9457,-277.77078)"
-       id="g9153">
+       transform="matrix(1,0,0,0.99893904,-3143.9457,-277.36492)"
+       id="g9153"
+       inkscape:export-filename="FBPMW_300_250.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          style="display:inline;filter:url(#filter11975)"
          clip-path="url(#clipPath11839)"
@@ -2524,7 +2539,10 @@
     </g>
     <g
        transform="translate(-3459.946,-277.77078)"
-       id="g10424">
+       id="g10424"
+       inkscape:export-filename="FBPWS_160_600.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          id="g10426"
          transform="matrix(3.652092,0,0,5.3769368,-25380.842,262.74889)"
@@ -2944,7 +2962,10 @@
     </g>
     <g
        id="g10596"
-       transform="translate(-3179.946,-277.77078)">
+       transform="translate(-3179.946,-277.77078)"
+       inkscape:export-filename="FBPWC_160_600.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          style="display:inline;filter:url(#filter11975-5)"
          clip-path="url(#clipPath9808)"
@@ -3364,7 +3385,10 @@
     </g>
     <g
        id="g10858"
-       transform="translate(-3488,-779.99998)">
+       transform="matrix(1,0,0,0.99836851,-3488,-779.53901)"
+       inkscape:export-filename="FBPRW_180_150.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          style="display:inline;filter:url(#filter11975-1)"
          clip-path="url(#clipPath11139)"
@@ -3775,8 +3799,11 @@
          style="display:inline;opacity:1;fill:url(#linearGradient6837-8-8);fill-opacity:1;stroke:none;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <g
-       transform="translate(-3248,-779.99998)"
-       id="g5043">
+       transform="matrix(1,0,0,0.99836851,-3248,-779.53901)"
+       id="g5043"
+       inkscape:export-filename="FBPRS_180_150.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          id="g5045"
          transform="matrix(1.3102932,0,0,1.9204925,-8503.135,159.81683)"
@@ -4130,7 +4157,7 @@
            transform="matrix(0.24013272,0,0,0.24013272,-1757.2808,-479.8776)"
            style="fill:#ffffff;fill-opacity:1">
           <rect
-             rx="20.433861"
+             rx="20.467253"
              style="fill:#ffffff;fill-opacity:1;stroke:none"
              id="rect8967-4"
              width="42.426407"
@@ -4140,7 +4167,7 @@
              ry="20.433861"
              transform="matrix(0,1,-1,0,0,0)" />
           <rect
-             rx="20.433861"
+             rx="20.467253"
              ry="20.433861"
              y="-2560.3801"
              x="1411.9673"
@@ -4150,7 +4177,7 @@
              style="fill:#ffffff;fill-opacity:1;stroke:none"
              transform="matrix(0,1,-1,0,0,0)" />
           <rect
-             rx="20.433861"
+             rx="20.467253"
              style="fill:#ffffff;fill-opacity:1;stroke:none"
              id="rect8971-1"
              width="42.426407"
@@ -4217,7 +4244,10 @@
     </g>
     <g
        id="g5217"
-       transform="translate(-3008,-779.99998)">
+       transform="matrix(1,0,0,0.99836851,-3008,-779.53901)"
+       inkscape:export-filename="FBPRC_180_150.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          style="display:inline;filter:url(#filter11975-1)"
          clip-path="url(#clipPath11139)"
@@ -4572,7 +4602,7 @@
            style="fill:#ffffff;fill-opacity:1">
           <rect
              rx="34.909515"
-             ry="34.909515"
+             ry="34.966564"
              y="-1186.8805"
              x="-3843.5327"
              height="151.40004"
@@ -4589,10 +4619,10 @@
              height="151.40004"
              x="-3783.5327"
              y="-1186.8805"
-             ry="34.909515" />
+             ry="34.966564" />
           <rect
              rx="34.909515"
-             ry="34.909515"
+             ry="34.966564"
              y="-1186.8805"
              x="-3903.5327"
              height="151.40004"
@@ -4658,7 +4688,10 @@
     </g>
     <g
        id="g5489"
-       transform="translate(-2654.0006,-925.99998)">
+       transform="translate(-2654.0006,-925.99998)"
+       inkscape:export-filename="FBPLC_728_90.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          style="display:inline;filter:url(#filter11975-19)"
          clip-path="url(#clipPath6012)"
@@ -5083,7 +5116,10 @@
     </g>
     <g
        transform="translate(-2654.0006,-1066)"
-       id="g6097">
+       id="g6097"
+       inkscape:export-filename="FBPLS_728_90.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          id="g6099"
          transform="matrix(4.2306487,0,0,6.2357552,-30246.826,606.22208)"
@@ -5508,7 +5544,10 @@
     </g>
     <g
        id="g6271"
-       transform="translate(-2654.0006,-1206)">
+       transform="translate(-2654.0024,-1206)"
+       inkscape:export-filename="FBPLW_728_90.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          style="display:inline;filter:url(#filter11975-19)"
          clip-path="url(#clipPath6012)"
@@ -5929,7 +5968,7 @@
          id="tspan6978"
          x="-2807.7786"
          y="-687.27679"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';text-align:center;text-anchor:middle;fill:#ffffff">Rectangle (300x250)</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';text-align:center;text-anchor:middle;fill:#ffffff">Rectangle (180x150)</tspan><tspan
          id="tspan6980"
          sodipodi:role="line"
          x="-2807.7786"
@@ -5946,7 +5985,7 @@
          y="-685.86255"
          x="-3603.9807"
          id="tspan6984"
-         sodipodi:role="line">Liderboard (300x250)</tspan><tspan
+         sodipodi:role="line">Liderboard (728x90)</tspan><tspan
          style="font-size:20px;text-align:center;text-anchor:middle;fill:#ffffff"
          y="-654.61255"
          x="-3603.9807"
@@ -5963,7 +6002,7 @@
          id="tspan6990"
          x="-3573.4539"
          y="-186.66957"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';text-align:center;text-anchor:middle;fill:#ffffff">Wide skyscrape (300x250)</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';text-align:center;text-anchor:middle;fill:#ffffff">Wide skyscrape (160x600)</tspan><tspan
          id="tspan6992"
          sodipodi:role="line"
          x="-3573.4539"
